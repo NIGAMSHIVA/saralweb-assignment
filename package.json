@@ -1,0 +1,18 @@
+{
+  "name": "saralweb-assignment",
+  "version": "1.0.0",
+  "description": "SDE Assignment - Nov 2025 | Merge Discontinuous Time Ranges",
+  "main": "mergeTimeRanges.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "merge",
+    "time-ranges",
+    "nodejs",
+    "saralweb"
+  ],
+  "author": "Shiva Nigam",
+  "license": "ISC"
+}
